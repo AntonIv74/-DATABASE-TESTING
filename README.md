@@ -1,6 +1,6 @@
 # -DATABASE-TESTING
 
-В рамках задания выше, мной были сделаны следующеие запросы в My SQL
+В рамках задания ниже, мной были сделаны следующеие запросы в My SQL
 
 Скачайте дампы базы данных Hogwarts отсюда https://drive.google.com/drive/u/3/folders/1MC0AttnmlAmugifFlX3hG6pssYZDqpPB
 
